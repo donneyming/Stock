@@ -1,0 +1,859 @@
+2016-03-15 14:50:06  [ Thread-0:0 ] - [ INFO ]  var hq_str_sz150205="����A,0.984,0.985,0.986,0.987,0.984,0.985,0.986,61567932,60678139.083,10645960,0.985,2852763,0.984,2291900,0.983,1728800,0.982,87000,0.981,1881746,0.986,12292394,0.987,5477914,0.988,1510482,0.989,353111,0.990,2016-03-15,14:50:01,00";
+2016-03-15 14:50:06  [ Thread-0:10 ] - [ INFO ]  [Ljava.lang.String;@50c6301a
+2016-03-15 14:50:06  [ Thread-0:13 ] - [ INFO ]  基金代码:150205|当前交易:0.986
+2016-03-15 14:50:06  [ SwingWorker-pool-1-thread-1:202 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:06  [ SwingWorker-pool-1-thread-1:272 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:06  [ Thread-0:317 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:06  [ Thread-0:317 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:06  [ SwingWorker-pool-1-thread-1:335 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:06  [ SwingWorker-pool-1-thread-1:336 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:07  [ Thread-0:425 ] - [ INFO ]  jsonpgz({"fundcode":"160630","name":"��������","jzrq":"2016-03-14","dwjz":"0.7030","gsz":"0.6955","gszzl":"-1.06","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:07  [ Thread-0:428 ] - [ INFO ]  基金代码:160630|当前交易:0.6955
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:460 ] - [ INFO ]  jsonpgz({"fundcode":"160630","name":"��������","jzrq":"2016-03-14","dwjz":"0.7030","gsz":"0.6955","gszzl":"-1.06","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:461 ] - [ INFO ]  基金代码:160630|当前交易:0.6955
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:521 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:523 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:583 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:585 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:646 ] - [ INFO ]  jsonpgz({"fundcode":"160629","name":"������ý�ּ�","jzrq":"2016-03-14","dwjz":"1.0590","gsz":"1.0502","gszzl":"-0.83","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:647 ] - [ INFO ]  基金代码:160629|当前交易:1.0502
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:736 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:736 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:820 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:821 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:880 ] - [ INFO ]  jsonpgz({"fundcode":"164905","name":"������֤����Դָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7320","gsz":"0.7325","gszzl":"0.07","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:881 ] - [ INFO ]  基金代码:164905|当前交易:0.7325
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:946 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:946 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:1057 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:1058 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:1121 ] - [ INFO ]  jsonpgz({"fundcode":"162907","name":"̩�Ż�����400ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7050","gsz":"0.6991","gszzl":"-0.84","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:1122 ] - [ INFO ]  基金代码:162907|当前交易:0.6991
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:1239 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:1239 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:1303 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:1304 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:1362 ] - [ INFO ]  jsonpgz({"fundcode":"164821","name":"������֤����Դָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0432","gsz":"1.0433","gszzl":"0.01","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:07  [ SwingWorker-pool-1-thread-1:1363 ] - [ INFO ]  基金代码:164821|当前交易:1.0433
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:1418 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:1419 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:1475 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:1475 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:1624 ] - [ INFO ]  jsonpgz({"fundcode":"164402","name":"ǰ����Դ�к�����","jzrq":"2016-03-14","dwjz":"0.8850","gsz":"0.8773","gszzl":"-0.86","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:1625 ] - [ INFO ]  基金代码:164402|当前交易:0.8773
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:1720 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:1721 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:2030 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:2032 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:2200 ] - [ INFO ]  jsonpgz({"fundcode":"161910","name":"����д�ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9669","gsz":"0.9601","gszzl":"-0.70","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:2201 ] - [ INFO ]  基金代码:161910|当前交易:0.9601
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:2308 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:2309 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:2378 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:08  [ SwingWorker-pool-1-thread-1:2379 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2447 ] - [ INFO ]  jsonpgz({"fundcode":"161123","name":"�׷�������ּ�","jzrq":"2016-03-14","dwjz":"0.8838","gsz":"0.8774","gszzl":"-0.73","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2448 ] - [ INFO ]  基金代码:161123|当前交易:0.8774
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2542 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2543 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2608 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2609 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2667 ] - [ INFO ]  jsonpgz({"fundcode":"162216","name":"̩����֤500�ּ�","jzrq":"2016-03-14","dwjz":"0.8304","gsz":"0.8231","gszzl":"-0.88","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2668 ] - [ INFO ]  基金代码:162216|当前交易:0.8231
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2760 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2762 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2826 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2828 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2905 ] - [ INFO ]  jsonpgz({"fundcode":"160420","name":"������ҵ��50ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8083","gsz":"0.7987","gszzl":"-1.18","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2906 ] - [ INFO ]  基金代码:160420|当前交易:0.7987
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2965 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:2967 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:3055 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:3056 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:3137 ] - [ INFO ]  jsonpgz({"fundcode":"160639","name":"���������ּ�","jzrq":"2016-03-14","dwjz":"0.7680","gsz":"0.7634","gszzl":"-0.60","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:3138 ] - [ INFO ]  基金代码:160639|当前交易:0.7634
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:3240 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:3240 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:3324 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:3325 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:3407 ] - [ INFO ]  jsonpgz({"fundcode":"164819","name":"������֤������ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.6977","gsz":"0.6961","gszzl":"-0.23","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:09  [ SwingWorker-pool-1-thread-1:3409 ] - [ INFO ]  基金代码:164819|当前交易:0.6961
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3491 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3492 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3552 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3552 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3629 ] - [ INFO ]  jsonpgz({"fundcode":"161025","name":"������֤�ƶ�������ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7000","gsz":"0.6916","gszzl":"-1.20","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3630 ] - [ INFO ]  基金代码:161025|当前交易:0.6916
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3769 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3769 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3868 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3868 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3972 ] - [ INFO ]  jsonpgz({"fundcode":"165315","name":"���������ڷּ�","jzrq":"2016-03-14","dwjz":"0.7695","gsz":"0.7640","gszzl":"-0.72","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:3974 ] - [ INFO ]  基金代码:165315|当前交易:0.764
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4051 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4051 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4128 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4129 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4194 ] - [ INFO ]  jsonpgz({"fundcode":"161628","name":"��ͨ�����ּ�","jzrq":"2016-03-14","dwjz":"0.7810","gsz":"0.7730","gszzl":"-1.02","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4195 ] - [ INFO ]  基金代码:161628|当前交易:0.773
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4251 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4251 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4326 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4327 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4382 ] - [ INFO ]  jsonpgz({"fundcode":"161031","name":"������֤��ҵ4.0ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8950","gsz":"0.8914","gszzl":"-0.40","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:10  [ SwingWorker-pool-1-thread-1:4383 ] - [ INFO ]  基金代码:161031|当前交易:0.8914
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:4519 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:4520 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:4589 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:4589 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:4789 ] - [ INFO ]  jsonpgz({"fundcode":"168001","name":"���ٰ�����֤���ϲ�ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7440","gsz":"0.7403","gszzl":"-0.50","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:4790 ] - [ INFO ]  基金代码:168001|当前交易:0.7403
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:5031 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:5032 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:5140 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:5140 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:5274 ] - [ INFO ]  jsonpgz({"fundcode":"162010","name":"���Ǿ�����С��300","jzrq":"2016-03-14","dwjz":"1.0070","gsz":"0.9999","gszzl":"-0.71","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:11  [ SwingWorker-pool-1-thread-1:5275 ] - [ INFO ]  基金代码:162010|当前交易:0.9999
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5444 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5445 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5560 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5560 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5615 ] - [ INFO ]  jsonpgz({"fundcode":"161819","name":"������Դָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9980","gsz":"0.9796","gszzl":"-1.84","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5616 ] - [ INFO ]  基金代码:161819|当前交易:0.9796
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5732 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5732 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5813 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5813 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5870 ] - [ INFO ]  jsonpgz({"fundcode":"164818","name":"������֤��ýָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7580","gsz":"0.7517","gszzl":"-0.83","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5871 ] - [ INFO ]  基金代码:164818|当前交易:0.7517
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5933 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5934 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:5999 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:6000 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:6204 ] - [ INFO ]  jsonpgz({"fundcode":"160137","name":"�Ϸ���֤������ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7205","gsz":"0.7119","gszzl":"-1.20","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:12  [ SwingWorker-pool-1-thread-1:6206 ] - [ INFO ]  基金代码:160137|当前交易:0.7119
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:6609 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:6610 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:6712 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:6713 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:6823 ] - [ INFO ]  jsonpgz({"fundcode":"163117","name":"����������֤����ý��ҵͶ��ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8440","gsz":"0.8361","gszzl":"-0.94","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:6824 ] - [ INFO ]  基金代码:163117|当前交易:0.8361
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:6960 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:6961 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:7038 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:7039 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:7094 ] - [ INFO ]  jsonpgz({"fundcode":"163209","name":"ŵ����֤��ҵ�ɳ�ָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0720","gsz":"1.0645","gszzl":"-0.70","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:7094 ] - [ INFO ]  基金代码:163209|当前交易:1.0645
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:7229 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:7230 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:7287 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:7288 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:7383 ] - [ INFO ]  jsonpgz({"fundcode":"164811","name":"������֤100ָ���ּ�","jzrq":"2016-03-14","dwjz":"1.1279","gsz":"1.1219","gszzl":"-0.53","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:13  [ SwingWorker-pool-1-thread-1:7384 ] - [ INFO ]  基金代码:164811|当前交易:1.1219
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7498 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7498 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7588 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7588 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7641 ] - [ INFO ]  jsonpgz({"fundcode":"161629","name":"��֤ͨȯ�ּ�","jzrq":"2016-03-14","dwjz":"1.0520","gsz":"1.0447","gszzl":"-0.70","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7641 ] - [ INFO ]  基金代码:161629|当前交易:1.0447
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7722 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7722 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7784 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7784 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7842 ] - [ INFO ]  jsonpgz({"fundcode":"161223","name":"��Ͷ������֤��ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.6750","gsz":"0.6703","gszzl":"-0.70","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7842 ] - [ INFO ]  基金代码:161223|当前交易:0.6703
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7911 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:7911 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8020 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8021 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8118 ] - [ INFO ]  jsonpgz({"fundcode":"165522","name":"�ų���֤TMT��ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7770","gsz":"0.7685","gszzl":"-1.10","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8119 ] - [ INFO ]  基金代码:165522|当前交易:0.7685
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8186 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8186 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8243 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8244 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8318 ] - [ INFO ]  jsonpgz({"fundcode":"163115","name":"����������֤����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9014","gsz":"0.8922","gszzl":"-1.02","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8319 ] - [ INFO ]  基金代码:163115|当前交易:0.8922
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8378 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:14  [ SwingWorker-pool-1-thread-1:8379 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8446 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8447 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8559 ] - [ INFO ]  jsonpgz({"fundcode":"162413","name":"������ҵ��֤1000ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7488","gsz":"0.7424","gszzl":"-0.85","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8560 ] - [ INFO ]  基金代码:162413|当前交易:0.7424
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8628 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8629 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8769 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8769 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8866 ] - [ INFO ]  jsonpgz({"fundcode":"160136","name":"�Ϸ���֤������ҵ�ĸ�ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7968","gsz":"0.7935","gszzl":"-0.41","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8867 ] - [ INFO ]  基金代码:160136|当前交易:0.7935
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8982 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:8983 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:9053 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:9054 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:9116 ] - [ INFO ]  jsonpgz({"fundcode":"160135","name":"�Ϸ���֤������ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9797","gsz":"0.9739","gszzl":"-0.60","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:9118 ] - [ INFO ]  基金代码:160135|当前交易:0.9739
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:9204 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:9204 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:9268 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:9269 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:9334 ] - [ INFO ]  jsonpgz({"fundcode":"160637","name":"������ҵ��ּ�","jzrq":"2016-03-14","dwjz":"0.9280","gsz":"0.9188","gszzl":"-0.99","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:15  [ SwingWorker-pool-1-thread-1:9336 ] - [ INFO ]  基金代码:160637|当前交易:0.9188
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9451 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9451 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9514 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9515 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9586 ] - [ INFO ]  jsonpgz({"fundcode":"161720","name":"������֤ȫָ֤ȯ��˾ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7280","gsz":"0.7229","gszzl":"-0.70","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9587 ] - [ INFO ]  基金代码:161720|当前交易:0.7229
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9658 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9659 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9715 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9716 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9773 ] - [ INFO ]  jsonpgz({"fundcode":"162107","name":"��ӥ��֤500ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9734","gsz":"0.9648","gszzl":"-0.88","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9775 ] - [ INFO ]  基金代码:162107|当前交易:0.9648
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9894 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:9894 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:10021 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:10022 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:10124 ] - [ INFO ]  jsonpgz({"fundcode":"160636","name":"�����������ּ�","jzrq":"2016-03-14","dwjz":"0.9960","gsz":"0.9841","gszzl":"-1.20","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:10125 ] - [ INFO ]  基金代码:160636|当前交易:0.9841
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:10189 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:10190 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:10257 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:10258 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:10328 ] - [ INFO ]  jsonpgz({"fundcode":"161028","name":"������֤����Դ����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7820","gsz":"0.7857","gszzl":"0.47","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:16  [ SwingWorker-pool-1-thread-1:10329 ] - [ INFO ]  基金代码:161028|当前交易:0.7857
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10429 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10430 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10503 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10504 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10580 ] - [ INFO ]  jsonpgz({"fundcode":"161022","name":"������ҵ��ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9190","gsz":"0.9099","gszzl":"-0.99","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10581 ] - [ INFO ]  基金代码:161022|当前交易:0.9099
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10641 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10641 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10708 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10709 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10779 ] - [ INFO ]  jsonpgz({"fundcode":"160127","name":"�Ϸ��������ѷּ�","jzrq":"2016-03-14","dwjz":"1.0000","gsz":"1.0004","gszzl":"0.04","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10779 ] - [ INFO ]  基金代码:160127|当前交易:1.0004
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10856 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:10856 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:11113 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:11113 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:11196 ] - [ INFO ]  jsonpgz({"fundcode":"161122","name":"�׷�������ּ�","jzrq":"2016-03-14","dwjz":"0.9563","gsz":"0.9515","gszzl":"-0.51","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:11196 ] - [ INFO ]  基金代码:161122|当前交易:0.9515
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:11252 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:11252 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:11383 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:17  [ SwingWorker-pool-1-thread-1:11384 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:11519 ] - [ INFO ]  jsonpgz({"fundcode":"167503","name":"����һ��һ·�ּ�","jzrq":"2016-03-14","dwjz":"0.7110","gsz":"0.7091","gszzl":"-0.27","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:11520 ] - [ INFO ]  基金代码:167503|当前交易:0.7091
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:11649 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:11650 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:12018 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:12019 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:12115 ] - [ INFO ]  jsonpgz({"fundcode":"165523","name":"�ų���֤��Ϣ��ȫָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8910","gsz":"0.8790","gszzl":"-1.35","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:12116 ] - [ INFO ]  基金代码:165523|当前交易:0.879
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:12266 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:12266 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:12404 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:18  [ SwingWorker-pool-1-thread-1:12404 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:12490 ] - [ INFO ]  jsonpgz({"fundcode":"161030","name":"������֤������ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7520","gsz":"0.7455","gszzl":"-0.86","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:12491 ] - [ INFO ]  基金代码:161030|当前交易:0.7455
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:13138 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:13139 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:13195 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:13196 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:13262 ] - [ INFO ]  jsonpgz({"fundcode":"167601","name":"������300ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7876","gsz":"0.7887","gszzl":"0.13","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:13263 ] - [ INFO ]  基金代码:167601|当前交易:0.7887
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:13321 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:13321 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:13390 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:19  [ SwingWorker-pool-1-thread-1:13390 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13470 ] - [ INFO ]  jsonpgz({"fundcode":"161207","name":"��Ͷ��������300","jzrq":"2016-03-14","dwjz":"0.8990","gsz":"0.9017","gszzl":"0.30","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13471 ] - [ INFO ]  基金代码:161207|当前交易:0.9017
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13527 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13527 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13584 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13584 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13654 ] - [ INFO ]  jsonpgz({"fundcode":"160638","name":"����һ��һ·�ּ�","jzrq":"2016-03-14","dwjz":"0.7210","gsz":"0.7190","gszzl":"-0.27","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13654 ] - [ INFO ]  基金代码:160638|当前交易:0.719
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13712 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13713 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13772 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13772 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13835 ] - [ INFO ]  jsonpgz({"fundcode":"502013","name":"��ʢ��֤����һ��һ·�ּ�","jzrq":"2016-03-14","dwjz":"0.7500","gsz":"0.7480","gszzl":"-0.27","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13837 ] - [ INFO ]  基金代码:502013|当前交易:0.748
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13933 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:20  [ SwingWorker-pool-1-thread-1:13933 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:14496 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:14497 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:14586 ] - [ INFO ]  jsonpgz({"fundcode":"502006","name":"�׷������ĸ�ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8403","gsz":"0.8369","gszzl":"-0.41","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:14586 ] - [ INFO ]  基金代码:502006|当前交易:0.8369
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:14710 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:14711 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:14804 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:14805 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:15275 ] - [ INFO ]  jsonpgz({"fundcode":"502000","name":"����������֤500��Ȩ��ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8650","gsz":"0.8569","gszzl":"-0.94","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:15276 ] - [ INFO ]  基金代码:502000|当前交易:0.8569
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:15343 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:15343 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:15406 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:21  [ SwingWorker-pool-1-thread-1:15407 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:15527 ] - [ INFO ]  jsonpgz({"fundcode":"160640","name":"��������Դ�ּ�","jzrq":"2016-03-14","dwjz":"0.7910","gsz":"0.7911","gszzl":"0.01","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:15527 ] - [ INFO ]  基金代码:160640|当前交易:0.7911
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:15622 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:15623 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:15770 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:15771 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:15867 ] - [ INFO ]  jsonpgz({"fundcode":"163114","name":"������֤������ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8599","gsz":"0.8579","gszzl":"-0.23","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:15868 ] - [ INFO ]  基金代码:163114|当前交易:0.8579
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:16033 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:16033 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:16114 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:22  [ SwingWorker-pool-1-thread-1:16115 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16476 ] - [ INFO ]  jsonpgz({"fundcode":"502016","name":"������֤һ��һ·����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9630","gsz":"0.9604","gszzl":"-0.27","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16478 ] - [ INFO ]  基金代码:502016|当前交易:0.9604
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16535 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16535 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16597 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16597 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16657 ] - [ INFO ]  jsonpgz({"fundcode":"164401","name":"ǰ����Դ�����ּ�","jzrq":"2016-03-14","dwjz":"0.9070","gsz":"0.9068","gszzl":"-0.03","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16658 ] - [ INFO ]  基金代码:164401|当前交易:0.9068
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16748 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16749 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16862 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:16862 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:17021 ] - [ INFO ]  jsonpgz({"fundcode":"163118","name":"����������֤����ҽҩ����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8061","gsz":"0.8058","gszzl":"-0.03","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:17021 ] - [ INFO ]  基金代码:163118|当前交易:0.8058
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:17180 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:17181 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:17391 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:23  [ SwingWorker-pool-1-thread-1:17392 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:17509 ] - [ INFO ]  jsonpgz({"fundcode":"168203","name":"���ڹ�֤������ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8020","gsz":"0.7874","gszzl":"-1.83","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:17509 ] - [ INFO ]  基金代码:168203|当前交易:0.7874
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:17592 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:17592 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:17713 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:17714 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:17782 ] - [ INFO ]  jsonpgz({"fundcode":"163116","name":"����������֤���������ҵͶ��ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8924","gsz":"0.8888","gszzl":"-0.40","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:17783 ] - [ INFO ]  基金代码:163116|当前交易:0.8888
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:17868 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:17868 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:18009 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:18012 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:18112 ] - [ INFO ]  jsonpgz({"fundcode":"160809","name":"��ʢͬ��100��Ȩ�ּ�","jzrq":"2016-03-14","dwjz":"0.9410","gsz":"0.9341","gszzl":"-0.73","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:18113 ] - [ INFO ]  基金代码:160809|当前交易:0.9341
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:18205 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:18205 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:18311 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:24  [ SwingWorker-pool-1-thread-1:18311 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:18418 ] - [ INFO ]  jsonpgz({"fundcode":"160628","name":"�����ز��ּ�","jzrq":"2016-03-14","dwjz":"0.9370","gsz":"0.9300","gszzl":"-0.75","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:18419 ] - [ INFO ]  基金代码:160628|当前交易:0.93
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:18557 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:18557 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:18635 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:18636 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:18798 ] - [ INFO ]  jsonpgz({"fundcode":"161026","name":"������֤����ĸ�ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7860","gsz":"0.7828","gszzl":"-0.41","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:18799 ] - [ INFO ]  基金代码:161026|当前交易:0.7828
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:19183 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:19184 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:19269 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:25  [ SwingWorker-pool-1-thread-1:19269 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:26  [ SwingWorker-pool-1-thread-1:19829 ] - [ INFO ]  jsonpgz({"fundcode":"165524","name":"�ų���֤���ܼҾ�ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9210","gsz":"0.9107","gszzl":"-1.12","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:26  [ SwingWorker-pool-1-thread-1:19830 ] - [ INFO ]  基金代码:165524|当前交易:0.9107
+2016-03-15 14:50:26  [ SwingWorker-pool-1-thread-1:19955 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:26  [ SwingWorker-pool-1-thread-1:19956 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:26  [ SwingWorker-pool-1-thread-1:20047 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:26  [ SwingWorker-pool-1-thread-1:20048 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:26  [ SwingWorker-pool-1-thread-1:20170 ] - [ INFO ]  jsonpgz({"fundcode":"163109","name":"����������֤��ָ�ּ�","jzrq":"2016-03-14","dwjz":"0.5668","gsz":"0.5626","gszzl":"-0.74","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:26  [ SwingWorker-pool-1-thread-1:20171 ] - [ INFO ]  基金代码:163109|当前交易:0.5626
+2016-03-15 14:50:26  [ SwingWorker-pool-1-thread-1:20303 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:26  [ SwingWorker-pool-1-thread-1:20303 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20417 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20417 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20487 ] - [ INFO ]  jsonpgz({"fundcode":"165519","name":"�ų���֤800ҽҩָ���ּ�","jzrq":"2016-03-14","dwjz":"0.6990","gsz":"0.6988","gszzl":"-0.02","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20488 ] - [ INFO ]  基金代码:165519|当前交易:0.6988
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20558 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20559 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20615 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20616 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20705 ] - [ INFO ]  jsonpgz({"fundcode":"160634","name":"���������ּ�","jzrq":"2016-03-14","dwjz":"0.9430","gsz":"0.9409","gszzl":"-0.23","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20706 ] - [ INFO ]  基金代码:160634|当前交易:0.9409
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20784 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20784 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20900 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20901 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20972 ] - [ INFO ]  jsonpgz({"fundcode":"160218","name":"��̩��֤���ز���ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7301","gsz":"0.7247","gszzl":"-0.74","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:20973 ] - [ INFO ]  基金代码:160218|当前交易:0.7247
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:21049 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:21050 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:21153 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:21153 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:21243 ] - [ INFO ]  jsonpgz({"fundcode":"161118","name":"�׷�����Сָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9655","gsz":"0.9576","gszzl":"-0.81","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:21243 ] - [ INFO ]  基金代码:161118|当前交易:0.9576
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:21375 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:27  [ SwingWorker-pool-1-thread-1:21375 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21447 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21448 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21593 ] - [ INFO ]  jsonpgz({"fundcode":"164304","name":"�»���֤������ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0160","gsz":"1.0137","gszzl":"-0.23","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21594 ] - [ INFO ]  基金代码:164304|当前交易:1.0137
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21682 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21682 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21755 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21756 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21830 ] - [ INFO ]  jsonpgz({"fundcode":"161811","name":"��������300ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7810","gsz":"0.7834","gszzl":"0.30","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21830 ] - [ INFO ]  基金代码:161811|当前交易:0.7834
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21889 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21889 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21979 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:21980 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22057 ] - [ INFO ]  jsonpgz({"fundcode":"164809","name":"������֤500�ּ�","jzrq":"2016-03-14","dwjz":"1.2132","gsz":"1.2025","gszzl":"-0.88","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22058 ] - [ INFO ]  基金代码:164809|当前交易:1.2025
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22116 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22116 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22178 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22178 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22241 ] - [ INFO ]  jsonpgz({"fundcode":"161825","name":"������֤800�ּ�","jzrq":"2016-03-14","dwjz":"0.9310","gsz":"0.9240","gszzl":"-0.75","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22242 ] - [ INFO ]  基金代码:161825|当前交易:0.924
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22300 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22300 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22356 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22356 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22412 ] - [ INFO ]  jsonpgz({"fundcode":"162412","name":"������ҵ��֤ҽ��ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9895","gsz":"0.9815","gszzl":"-0.81","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:28  [ SwingWorker-pool-1-thread-1:22412 ] - [ INFO ]  基金代码:162412|当前交易:0.9815
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22471 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22471 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22535 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22535 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22592 ] - [ INFO ]  jsonpgz({"fundcode":"161718","name":"���̻���300�߱���ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7220","gsz":"0.7170","gszzl":"-0.69","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22592 ] - [ INFO ]  基金代码:161718|当前交易:0.717
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22648 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22648 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22704 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22704 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22761 ] - [ INFO ]  jsonpgz({"fundcode":"502026","name":"������˿·�ּ�","jzrq":"2016-03-14","dwjz":"0.8470","gsz":"0.8384","gszzl":"-1.02","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22761 ] - [ INFO ]  基金代码:502026|当前交易:0.8384
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22818 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22819 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22875 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22875 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22930 ] - [ INFO ]  jsonpgz({"fundcode":"160632","name":"�����Ʒּ�","jzrq":"2016-03-14","dwjz":"0.7270","gsz":"0.7277","gszzl":"0.09","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:22931 ] - [ INFO ]  基金代码:160632|当前交易:0.7277
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23000 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23000 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23059 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23059 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23115 ] - [ INFO ]  jsonpgz({"fundcode":"161027","name":"������֤ȫָ֤ȯ��˾ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9790","gsz":"0.9722","gszzl":"-0.70","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23115 ] - [ INFO ]  基金代码:161027|当前交易:0.9722
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23183 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23184 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23240 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23240 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23298 ] - [ INFO ]  jsonpgz({"fundcode":"161024","name":"������֤����ָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0190","gsz":"1.0086","gszzl":"-1.02","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23299 ] - [ INFO ]  基金代码:161024|当前交易:1.0086
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23355 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23356 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:29  [ SwingWorker-pool-1-thread-1:23415 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23416 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23472 ] - [ INFO ]  jsonpgz({"fundcode":"161812","name":"������֤100�ּ�","jzrq":"2016-03-14","dwjz":"0.8440","gsz":"0.8395","gszzl":"-0.54","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23474 ] - [ INFO ]  基金代码:161812|当前交易:0.8395
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23529 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23530 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23585 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23585 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23637 ] - [ INFO ]  jsonpgz({"fundcode":"502053","name":"��ʢ��֤֤ȯ��˾�ּ�","jzrq":"2016-03-14","dwjz":"0.9580","gsz":"0.9513","gszzl":"-0.70","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23638 ] - [ INFO ]  基金代码:502053|当前交易:0.9513
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23695 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23695 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23750 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23751 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23807 ] - [ INFO ]  jsonpgz({"fundcode":"160219","name":"��̩��֤ҽҩ����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7238","gsz":"0.7236","gszzl":"-0.03","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23808 ] - [ INFO ]  基金代码:160219|当前交易:0.7236
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23864 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23864 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23920 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23920 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23976 ] - [ INFO ]  jsonpgz({"fundcode":"502003","name":"�׷�������ּ�","jzrq":"2016-03-14","dwjz":"1.0247","gsz":"1.0142","gszzl":"-1.02","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:23977 ] - [ INFO ]  基金代码:502003|当前交易:1.0142
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24034 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24034 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24091 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24092 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24146 ] - [ INFO ]  jsonpgz({"fundcode":"160626","name":"������Ϣ�ּ�","jzrq":"2016-03-14","dwjz":"1.0080","gsz":"0.9989","gszzl":"-0.91","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24146 ] - [ INFO ]  基金代码:160626|当前交易:0.9989
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24203 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24204 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24261 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24261 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24319 ] - [ INFO ]  jsonpgz({"fundcode":"161726","name":"���̹�֤����ҽҩָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9220","gsz":"0.9218","gszzl":"-0.03","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24320 ] - [ INFO ]  基金代码:161726|当前交易:0.9218
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24386 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:30  [ SwingWorker-pool-1-thread-1:24387 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24444 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24444 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24503 ] - [ INFO ]  jsonpgz({"fundcode":"502040","name":"��ʢ��֤50ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8950","gsz":"0.9032","gszzl":"0.91","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24504 ] - [ INFO ]  基金代码:502040|当前交易:0.9032
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24559 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24560 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24615 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24615 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24668 ] - [ INFO ]  jsonpgz({"fundcode":"162714","name":"�㷢��֤100ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9019","gsz":"0.8971","gszzl":"-0.54","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24669 ] - [ INFO ]  基金代码:162714|当前交易:0.8971
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24724 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24725 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24785 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24785 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24841 ] - [ INFO ]  jsonpgz({"fundcode":"161816","name":"������֤��Ȩ90�ּ�","jzrq":"2016-03-14","dwjz":"0.9680","gsz":"0.9690","gszzl":"0.11","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24841 ] - [ INFO ]  基金代码:161816|当前交易:0.969
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24898 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24899 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24964 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:24964 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25023 ] - [ INFO ]  jsonpgz({"fundcode":"161721","name":"���̻���300�ز�ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.6910","gsz":"0.6869","gszzl":"-0.59","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25024 ] - [ INFO ]  基金代码:161721|当前交易:0.6869
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25080 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25080 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25146 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25147 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25203 ] - [ INFO ]  jsonpgz({"fundcode":"160808","name":"��ʢͬ��200�ּ�","jzrq":"2016-03-14","dwjz":"0.9600","gsz":"0.9541","gszzl":"-0.62","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25204 ] - [ INFO ]  基金代码:160808|当前交易:0.9541
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25262 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25263 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25318 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25319 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25373 ] - [ INFO ]  jsonpgz({"fundcode":"502030","name":"�к���֤������ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0150","gsz":"1.0089","gszzl":"-0.60","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:31  [ SwingWorker-pool-1-thread-1:25374 ] - [ INFO ]  基金代码:502030|当前交易:1.0089
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25429 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25430 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25486 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25486 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25557 ] - [ INFO ]  jsonpgz({"fundcode":"160633","name":"����֤ȯ�ּ�","jzrq":"2016-03-14","dwjz":"0.8930","gsz":"0.8868","gszzl":"-0.70","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25558 ] - [ INFO ]  基金代码:160633|当前交易:0.8868
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25624 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25624 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25695 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25695 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25781 ] - [ INFO ]  jsonpgz({"fundcode":"168204","name":"������֤úָ̿���ּ�","jzrq":"2016-03-14","dwjz":"0.7030","gsz":"0.6906","gszzl":"-1.77","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25782 ] - [ INFO ]  基金代码:168204|当前交易:0.6906
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25863 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25864 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25944 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:25945 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:26090 ] - [ INFO ]  jsonpgz({"fundcode":"165511","name":"�ų���֤500�ּ�","jzrq":"2016-03-14","dwjz":"1.0690","gsz":"1.0596","gszzl":"-0.88","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:26091 ] - [ INFO ]  基金代码:165511|当前交易:1.0596
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:26383 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:32  [ SwingWorker-pool-1-thread-1:26383 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26449 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26449 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26503 ] - [ INFO ]  jsonpgz({"fundcode":"161725","name":"������֤�׾�ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7610","gsz":"0.7632","gszzl":"0.29","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26504 ] - [ INFO ]  基金代码:161725|当前交易:0.7632
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26560 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26560 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26615 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26615 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26679 ] - [ INFO ]  jsonpgz({"fundcode":"160516","name":"��ʱ��֤800֤ȯ����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9978","gsz":"0.9953","gszzl":"-0.25","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26680 ] - [ INFO ]  基金代码:160516|当前交易:0.9953
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26737 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26737 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26793 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26794 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26887 ] - [ INFO ]  jsonpgz({"fundcode":"160625","name":"����֤ȯ���շּ�","jzrq":"2016-03-14","dwjz":"1.0620","gsz":"1.0594","gszzl":"-0.25","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26888 ] - [ INFO ]  基金代码:160625|当前交易:1.0594
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26950 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:26950 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27009 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27010 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27073 ] - [ INFO ]  jsonpgz({"fundcode":"160814","name":"��ʢ��֤���ڵز�ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.6970","gsz":"0.6997","gszzl":"0.38","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27074 ] - [ INFO ]  基金代码:160814|当前交易:0.6997
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27130 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27131 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27187 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27187 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27247 ] - [ INFO ]  jsonpgz({"fundcode":"502056","name":"�㷢ҽ��ָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0183","gsz":"1.0101","gszzl":"-0.81","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27248 ] - [ INFO ]  基金代码:502056|当前交易:1.0101
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27311 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27311 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27367 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:33  [ SwingWorker-pool-1-thread-1:27367 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27422 ] - [ INFO ]  jsonpgz({"fundcode":"502036","name":"�����֤����������ָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0248","gsz":"1.0175","gszzl":"-0.72","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27422 ] - [ INFO ]  基金代码:502036|当前交易:1.0175
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27479 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27479 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27536 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27537 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27597 ] - [ INFO ]  jsonpgz({"fundcode":"160224","name":"��̩��֤TMT50ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9972","gsz":"0.9868","gszzl":"-1.05","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27598 ] - [ INFO ]  基金代码:160224|当前交易:0.9868
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27725 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27726 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27824 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27824 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27908 ] - [ INFO ]  jsonpgz({"fundcode":"164820","name":"������֤������ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0086","gsz":"1.0026","gszzl":"-0.60","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27909 ] - [ INFO ]  基金代码:164820|当前交易:1.0026
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27971 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:27971 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28028 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28029 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28091 ] - [ INFO ]  jsonpgz({"fundcode":"160222","name":"��̩��֤ʳƷ������ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7036","gsz":"0.7080","gszzl":"0.63","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28092 ] - [ INFO ]  基金代码:160222|当前交易:0.708
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28147 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28148 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28209 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28210 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28266 ] - [ INFO ]  jsonpgz({"fundcode":"160419","name":"������֤ȫָ֤ȯ��˾ָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0247","gsz":"1.0176","gszzl":"-0.70","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28266 ] - [ INFO ]  基金代码:160419|当前交易:1.0176
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28337 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:34  [ SwingWorker-pool-1-thread-1:28338 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28418 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28419 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28487 ] - [ INFO ]  jsonpgz({"fundcode":"165521","name":"�ų���֤800����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8440","gsz":"0.8483","gszzl":"0.51","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28488 ] - [ INFO ]  基金代码:165521|当前交易:0.8483
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28600 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28600 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28689 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28690 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28791 ] - [ INFO ]  jsonpgz({"fundcode":"502023","name":"���������ּ�","jzrq":"2016-03-14","dwjz":"0.8750","gsz":"0.8590","gszzl":"-1.83","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28792 ] - [ INFO ]  基金代码:502023|当前交易:0.859
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28937 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:28937 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:29014 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:29014 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:29137 ] - [ INFO ]  jsonpgz({"fundcode":"164907","name":"������֤����������ָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0240","gsz":"1.0167","gszzl":"-0.72","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:29138 ] - [ INFO ]  基金代码:164907|当前交易:1.0167
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:29201 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:29201 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:29328 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:35  [ SwingWorker-pool-1-thread-1:29329 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29465 ] - [ INFO ]  jsonpgz({"fundcode":"163113","name":"����������֤����֤ȯ��ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0428","gsz":"1.0358","gszzl":"-0.68","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29466 ] - [ INFO ]  基金代码:163113|当前交易:1.0358
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29542 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29542 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29643 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29643 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29771 ] - [ INFO ]  jsonpgz({"fundcode":"160221","name":"��̩��֤��ɫ������ҵָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9864","gsz":"0.9612","gszzl":"-2.56","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29772 ] - [ INFO ]  基金代码:160221|当前交易:0.9612
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29858 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29858 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29916 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29916 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29975 ] - [ INFO ]  jsonpgz({"fundcode":"161724","name":"������֤ú̿��Ȩָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9550","gsz":"0.9414","gszzl":"-1.43","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:29975 ] - [ INFO ]  基金代码:161724|当前交易:0.9414
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30042 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30042 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30103 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30103 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30161 ] - [ INFO ]  jsonpgz({"fundcode":"165515","name":"�ųϻ���300�ּ�","jzrq":"2016-03-14","dwjz":"1.0350","gsz":"1.0364","gszzl":"0.13","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30161 ] - [ INFO ]  基金代码:165515|当前交易:1.0364
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30217 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30217 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30282 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30282 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30342 ] - [ INFO ]  jsonpgz({"fundcode":"166010","name":"��ŷ�����ּ�ծȯ","jzrq":"2016-03-14","dwjz":"1.2640","gsz":"1.2634","gszzl":"-0.04","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30342 ] - [ INFO ]  基金代码:166010|当前交易:1.2634
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30403 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:36  [ SwingWorker-pool-1-thread-1:30404 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30460 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30461 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30512 ] - [ INFO ]  jsonpgz({"fundcode":"163111","name":"������С��","jzrq":"2016-03-14","dwjz":"0.9793","gsz":"0.9713","gszzl":"-0.81","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30512 ] - [ INFO ]  基金代码:163111|当前交易:0.9713
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30568 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30568 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30624 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30624 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30700 ] - [ INFO ]  jsonpgz({"fundcode":"166802","name":"���̻���300ָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0340","gsz":"1.0354","gszzl":"0.13","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30700 ] - [ INFO ]  基金代码:166802|当前交易:1.0354
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30776 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30776 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30838 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30838 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30990 ] - [ INFO ]  jsonpgz({"fundcode":"161719","name":"���̿�תծ�ּ�ծȯ","jzrq":"2016-03-14","dwjz":"0.9970","gsz":"0.9960","gszzl":"-0.10","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:30990 ] - [ INFO ]  基金代码:161719|当前交易:0.996
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:31113 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:31114 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:31182 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:31183 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:31238 ] - [ INFO ]  jsonpgz({"fundcode":"162509","name":"������˫����֤100","jzrq":"2016-03-14","dwjz":"1.1880","gsz":"1.1952","gszzl":"0.61","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:31238 ] - [ INFO ]  基金代码:162509|当前交易:1.1952
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:31301 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:31301 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:31362 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:37  [ SwingWorker-pool-1-thread-1:31363 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31433 ] - [ INFO ]  jsonpgz({"fundcode":"502048","name":"�׷�����֤50ָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0281","gsz":"1.0375","gszzl":"0.91","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31434 ] - [ INFO ]  基金代码:502048|当前交易:1.0375
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31495 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31495 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31550 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31551 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31608 ] - [ INFO ]  jsonpgz({"fundcode":"502010","name":"�׷���֤ȯ��˾�ּ�","jzrq":"2016-03-14","dwjz":"1.0618","gsz":"1.0544","gszzl":"-0.70","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31608 ] - [ INFO ]  基金代码:502010|当前交易:1.0544
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31665 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31665 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31737 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31737 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31797 ] - [ INFO ]  jsonpgz({"fundcode":"161826","name":"������֤תծָ����ǿ�ּ�","jzrq":"2016-03-14","dwjz":"0.9830","gsz":"0.9816","gszzl":"-0.14","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31797 ] - [ INFO ]  基金代码:161826|当前交易:0.9816
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31854 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31855 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31911 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31911 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31975 ] - [ INFO ]  jsonpgz({"fundcode":"161723","name":"������֤����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8020","gsz":"0.8101","gszzl":"1.01","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:31976 ] - [ INFO ]  基金代码:161723|当前交易:0.8101
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32040 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32041 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32113 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32113 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32192 ] - [ INFO ]  jsonpgz({"fundcode":"160517","name":"��ʱ��֤����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8034","gsz":"0.8115","gszzl":"1.01","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32193 ] - [ INFO ]  基金代码:160517|当前交易:0.8115
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32271 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32271 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32331 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32331 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32387 ] - [ INFO ]  jsonpgz({"fundcode":"160620","name":"������Դ�ּ�","jzrq":"2016-03-14","dwjz":"1.0350","gsz":"1.0112","gszzl":"-2.29","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:38  [ SwingWorker-pool-1-thread-1:32387 ] - [ INFO ]  基金代码:160620|当前交易:1.0112
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32443 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32445 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32501 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32501 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32557 ] - [ INFO ]  jsonpgz({"fundcode":"161715","name":"������֤������Ʒָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8770","gsz":"0.8629","gszzl":"-1.61","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32558 ] - [ INFO ]  基金代码:161715|当前交易:0.8629
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32615 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32616 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32718 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32719 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32791 ] - [ INFO ]  jsonpgz({"fundcode":"160417","name":"��������300ָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0800","gsz":"1.0815","gszzl":"0.13","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32792 ] - [ INFO ]  基金代码:160417|当前交易:1.0815
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32869 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32870 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32977 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:32977 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:33117 ] - [ INFO ]  jsonpgz({"fundcode":"167301","name":"�������������ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8810","gsz":"0.8888","gszzl":"0.89","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:33117 ] - [ INFO ]  基金代码:167301|当前交易:0.8888
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:33201 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:33202 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:33273 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:33273 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:33329 ] - [ INFO ]  jsonpgz({"fundcode":"502020","name":"������֤50�ּ�","jzrq":"2016-03-14","dwjz":"1.0680","gsz":"1.0777","gszzl":"0.91","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:33329 ] - [ INFO ]  基金代码:502020|当前交易:1.0777
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:33395 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:39  [ SwingWorker-pool-1-thread-1:33396 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33465 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33466 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33524 ] - [ INFO ]  jsonpgz({"fundcode":"165520","name":"�ų���֤800��ɫָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9130","gsz":"0.8919","gszzl":"-2.31","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33525 ] - [ INFO ]  基金代码:165520|当前交易:0.8919
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33581 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33582 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33638 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33638 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33700 ] - [ INFO ]  jsonpgz({"fundcode":"160418","name":"������֤����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7377","gsz":"0.7452","gszzl":"1.01","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33701 ] - [ INFO ]  基金代码:160418|当前交易:0.7452
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33762 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33762 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33817 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33818 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33897 ] - [ INFO ]  jsonpgz({"fundcode":"165312","name":"��������50","jzrq":"2016-03-14","dwjz":"1.1416","gsz":"1.1449","gszzl":"0.29","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33898 ] - [ INFO ]  基金代码:165312|当前交易:1.1449
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33953 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:33953 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34013 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34013 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34072 ] - [ INFO ]  jsonpgz({"fundcode":"161029","name":"������֤����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8440","gsz":"0.8526","gszzl":"1.01","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34072 ] - [ INFO ]  基金代码:161029|当前交易:0.8526
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34129 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34129 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34185 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34185 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34252 ] - [ INFO ]  jsonpgz({"fundcode":"160217","name":"��̩�����ּ�ծȯ","jzrq":"2016-03-14","dwjz":"1.0440","gsz":"1.0439","gszzl":"-0.01","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34253 ] - [ INFO ]  基金代码:160217|当前交易:1.0439
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34308 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34309 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34364 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:40  [ SwingWorker-pool-1-thread-1:34364 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34421 ] - [ INFO ]  jsonpgz({"fundcode":"165707","name":"ŵ����֤300ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.9630","gsz":"0.9552","gszzl":"-0.81","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34422 ] - [ INFO ]  基金代码:165707|当前交易:0.9552
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34478 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34478 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34542 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34542 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34607 ] - [ INFO ]  jsonpgz({"fundcode":"163406","name":"��ȫ����ּ����","jzrq":"2016-03-14","dwjz":"2.4841","gsz":"2.4416","gszzl":"-1.71","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34608 ] - [ INFO ]  基金代码:163406|当前交易:2.4416
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34664 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34664 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34720 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34720 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34779 ] - [ INFO ]  jsonpgz({"fundcode":"165310","name":"����˫���ּ�","jzrq":"2016-03-14","dwjz":"1.1750","gsz":"1.1754","gszzl":"0.03","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34779 ] - [ INFO ]  基金代码:165310|当前交易:1.1754
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34835 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34835 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34891 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34891 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34948 ] - [ INFO ]  jsonpgz({"fundcode":"164508","name":"������֤100ָ����ǿ�ּ�","jzrq":"2016-03-14","dwjz":"0.7320","gsz":"0.7361","gszzl":"0.56","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:34949 ] - [ INFO ]  基金代码:164508|当前交易:0.7361
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35011 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35012 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35069 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35070 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35126 ] - [ INFO ]  jsonpgz({"fundcode":"161121","name":"�׷������зּ�","jzrq":"2016-03-14","dwjz":"0.7736","gsz":"0.7814","gszzl":"1.01","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35127 ] - [ INFO ]  基金代码:161121|当前交易:0.7814
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35182 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35182 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35240 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35240 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35306 ] - [ INFO ]  jsonpgz({"fundcode":"168205","name":"������֤����ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7590","gsz":"0.7667","gszzl":"1.01","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35306 ] - [ INFO ]  基金代码:168205|当前交易:0.7667
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35368 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:41  [ SwingWorker-pool-1-thread-1:35368 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:35431 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:35432 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:35513 ] - [ INFO ]  jsonpgz({"fundcode":"168201","name":"����һ��һ·�ּ�","jzrq":"2016-03-14","dwjz":"1.0560","gsz":"1.0531","gszzl":"-0.27","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:35513 ] - [ INFO ]  基金代码:168201|当前交易:1.0531
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:35675 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:35675 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:35732 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:35733 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:36009 ] - [ INFO ]  jsonpgz({"fundcode":"160631","name":"�������зּ�","jzrq":"2016-03-14","dwjz":"0.7960","gsz":"0.8041","gszzl":"1.01","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:36009 ] - [ INFO ]  基金代码:160631|当前交易:0.8041
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:36066 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:36066 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:36237 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:36238 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:36296 ] - [ INFO ]  jsonpgz({"fundcode":"161507","name":"���ӻ���300�ɳ��ּ�","jzrq":"2016-03-14","dwjz":"1.0390","gsz":"1.0433","gszzl":"0.41","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:36296 ] - [ INFO ]  基金代码:161507|当前交易:1.0433
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:36358 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:42  [ SwingWorker-pool-1-thread-1:36359 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36428 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36428 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36486 ] - [ INFO ]  jsonpgz({"fundcode":"167701","name":"�°�����и���ծָ���ּ�","jzrq":"2016-03-14","dwjz":"1.0770","gsz":"1.0774","gszzl":"0.04","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36487 ] - [ INFO ]  基金代码:167701|当前交易:1.0774
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36542 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36543 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36600 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36601 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36661 ] - [ INFO ]  jsonpgz({"fundcode":"161818","name":"�������ѷּ����","jzrq":"2016-03-14","dwjz":"1.1460","gsz":"1.1404","gszzl":"-0.48","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36663 ] - [ INFO ]  基金代码:161818|当前交易:1.1404
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36749 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36750 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36853 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36853 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36931 ] - [ INFO ]  jsonpgz({"fundcode":"164705","name":"��������ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.8750","gsz":"0.8706","gszzl":"-0.51","gztime":"2016-03-15 14:41"});
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:36931 ] - [ INFO ]  基金代码:164705|当前交易:0.8706
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:37220 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:43  [ SwingWorker-pool-1-thread-1:37221 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37435 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37436 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37548 ] - [ INFO ]  jsonpgz({"fundcode":"161831","name":"������������ָ���ּ�","jzrq":"2016-03-14","dwjz":"0.7888","gsz":"0.7845","gszzl":"-0.55","gztime":"2016-03-15 14:41"});
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37549 ] - [ INFO ]  基金代码:161831|当前交易:0.7845
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37609 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37609 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37665 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37665 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37718 ] - [ INFO ]  jsonpgz({"fundcode":"161032","name":"������֤úָ̿���ּ�","jzrq":"2016-03-14","dwjz":"1.0070","gsz":"0.9892","gszzl":"-1.77","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37719 ] - [ INFO ]  基金代码:161032|当前交易:0.9892
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37778 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37778 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37843 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37843 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37903 ] - [ INFO ]  jsonpgz({"fundcode":"160718","name":"��ʵ�����ּ�ծȯ","jzrq":"2016-03-14","dwjz":"1.0192","gsz":"1.0181","gszzl":"-0.11","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37903 ] - [ INFO ]  基金代码:160718|当前交易:1.0181
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37959 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:37959 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:38019 ] - [ INFO ]  <html><head><title>301 Moved Permanently</title></head><body bgcolor="white"><center><h1>301 Moved Permanently</h1></center><hr><center>nginx</center></body></html>
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:38020 ] - [ ERROR ]  CreateDataFromJiSiLu->createFromJisilu:null
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:38078 ] - [ INFO ]  jsonpgz({"fundcode":"165809","name":"����תծ","jzrq":"2016-03-14","dwjz":"0.9800","gsz":"0.9787","gszzl":"-0.13","gztime":"2016-03-15 14:49"});
+2016-03-15 14:50:44  [ SwingWorker-pool-1-thread-1:38078 ] - [ INFO ]  基金代码:165809|当前交易:0.9787

@@ -1,0 +1,47 @@
+2016-04-12 21:00:49  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:00:49  [ AWT-EventQueue-0:241 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:01:22  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:01:22  [ AWT-EventQueue-0:161 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:15:42  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:15:43  [ AWT-EventQueue-0:159 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:17:36  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:17:36  [ AWT-EventQueue-0:171 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:34:40  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:34:40  [ AWT-EventQueue-0:153 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:35:54  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:35:54  [ AWT-EventQueue-0:167 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:37:30  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:37:30  [ AWT-EventQueue-0:147 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:38:44  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:38:44  [ AWT-EventQueue-0:187 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:39:40  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:39:40  [ AWT-EventQueue-0:189 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:40:07  [ DefaultQuartzScheduler_Worker-1:27234 ] - [ ERROR ]  CreateDataFromSina->createMomFundFromTianTian:null
+2016-04-12 21:40:08  [ DefaultQuartzScheduler_Worker-1:28177 ] - [ ERROR ]  CreateDataFromSina->createMomFundFromTianTian:null
+2016-04-12 21:40:09  [ DefaultQuartzScheduler_Worker-1:29871 ] - [ ERROR ]  CreateDataFromSina->createMomFundFromTianTian:null
+2016-04-12 21:40:10  [ DefaultQuartzScheduler_Worker-1:30019 ] - [ ERROR ]  CreateDataFromSina->createMomFundFromTianTian:null
+2016-04-12 21:40:16  [ DefaultQuartzScheduler_Worker-1:36353 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:16  [ DefaultQuartzScheduler_Worker-1:36405 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:17  [ DefaultQuartzScheduler_Worker-1:37557 ] - [ ERROR ]  CreateDataFromSina->createMomFundFromTianTian:null
+2016-04-12 21:40:19  [ DefaultQuartzScheduler_Worker-1:39840 ] - [ ERROR ]  CreateDataFromSina->createMomFundFromTianTian:null
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42092 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42143 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42242 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42292 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42399 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42447 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42503 ] - [ ERROR ]  CreateDataFromSina->createMomFundFromTianTian:null
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42553 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42603 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42705 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:22  [ DefaultQuartzScheduler_Worker-1:42757 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:23  [ DefaultQuartzScheduler_Worker-1:43730 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:23  [ DefaultQuartzScheduler_Worker-1:43783 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:24  [ DefaultQuartzScheduler_Worker-1:44033 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:40:24  [ DefaultQuartzScheduler_Worker-1:44085 ] - [ ERROR ]  CreateDataFromSina->createFromSina:3
+2016-04-12 21:41:40  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:41:40  [ AWT-EventQueue-0:151 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:43:53  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:43:53  [ AWT-EventQueue-0:144 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:47:51  [ AWT-EventQueue-0:0 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1
+2016-04-12 21:47:51  [ AWT-EventQueue-0:171 ] - [ ERROR ]  UserInterface->creat2:Index: 2, Size: 1

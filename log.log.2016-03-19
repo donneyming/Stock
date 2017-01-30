@@ -1,0 +1,71 @@
+2016-03-19 17:49:32  [ main:0 ] - [ INFO ]  Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=50}
+2016-03-19 17:49:33  [ main:214 ] - [ DEBUG ]  Updating cluster description to  {type=UNKNOWN, servers=[{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]
+2016-03-19 17:49:33  [ main:282 ] - [ INFO ]  No server chosen by WritableServerSelector from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-03-19 17:49:33  [ cluster-ClusterId{value='56ed20ac92159b0b59d0121b', description='null'}-localhost:27017:386 ] - [ INFO ]  Opened connection [connectionId{localValue:1, serverValue:1}] to localhost:27017
+2016-03-19 17:49:33  [ cluster-ClusterId{value='56ed20ac92159b0b59d0121b', description='null'}-localhost:27017:387 ] - [ DEBUG ]  Checking status of localhost:27017
+2016-03-19 17:49:33  [ cluster-ClusterId{value='56ed20ac92159b0b59d0121b', description='null'}-localhost:27017:388 ] - [ INFO ]  Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 0]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=819407}
+2016-03-19 17:49:33  [ cluster-ClusterId{value='56ed20ac92159b0b59d0121b', description='null'}-localhost:27017:390 ] - [ DEBUG ]  Updating cluster description to  {type=STANDALONE, servers=[{address=localhost:27017, type=STANDALONE, roundTripTime=0.8 ms, state=CONNECTED}]
+2016-03-19 17:49:33  [ main:396 ] - [ INFO ]  Opened connection [connectionId{localValue:2, serverValue:2}] to localhost:27017
+2016-03-19 17:49:33  [ main:404 ] - [ DEBUG ]  Inserting 1 documents into namespace yourdb.yourCollection on connection [connectionId{localValue:2, serverValue:2}] to server localhost:27017
+2016-03-19 17:49:33  [ main:420 ] - [ DEBUG ]  Insert completed
+2016-03-19 17:49:33  [ main:447 ] - [ DEBUG ]  Sending command {find : BsonString{value='yourCollection'}} to database yourdb on connection [connectionId{localValue:2, serverValue:2}] to server localhost:27017
+2016-03-19 17:49:33  [ main:586 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:35:08  [ main:0 ] - [ INFO ]  Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=50}
+2016-03-19 18:35:08  [ main:200 ] - [ DEBUG ]  Updating cluster description to  {type=UNKNOWN, servers=[{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]
+2016-03-19 18:35:08  [ main:240 ] - [ INFO ]  No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-03-19 18:35:08  [ cluster-ClusterId{value='56ed2b5c92159b0b6fa6492b', description='null'}-localhost:27017:283 ] - [ INFO ]  Opened connection [connectionId{localValue:1, serverValue:4}] to localhost:27017
+2016-03-19 18:35:08  [ cluster-ClusterId{value='56ed2b5c92159b0b6fa6492b', description='null'}-localhost:27017:283 ] - [ DEBUG ]  Checking status of localhost:27017
+2016-03-19 18:35:08  [ cluster-ClusterId{value='56ed2b5c92159b0b6fa6492b', description='null'}-localhost:27017:284 ] - [ INFO ]  Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 0]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=752527}
+2016-03-19 18:35:08  [ cluster-ClusterId{value='56ed2b5c92159b0b6fa6492b', description='null'}-localhost:27017:286 ] - [ DEBUG ]  Updating cluster description to  {type=STANDALONE, servers=[{address=localhost:27017, type=STANDALONE, roundTripTime=0.8 ms, state=CONNECTED}]
+2016-03-19 18:35:08  [ main:292 ] - [ INFO ]  Opened connection [connectionId{localValue:2, serverValue:5}] to localhost:27017
+2016-03-19 18:35:08  [ main:301 ] - [ DEBUG ]  Sending command {usersInfo : BsonString{value='root'}} to database mongodb on connection [connectionId{localValue:2, serverValue:5}] to server localhost:27017
+2016-03-19 18:35:08  [ main:335 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:35:08  [ main:344 ] - [ DEBUG ]  Sending command {createUser : BsonString{value='root'}} to database mongodb on connection [connectionId{localValue:2, serverValue:5}] to server localhost:27017
+2016-03-19 18:35:08  [ main:553 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:35:08  [ main:554 ] - [ DEBUG ]  Sending command {usersInfo : BsonString{value='root'}} to database local on connection [connectionId{localValue:2, serverValue:5}] to server localhost:27017
+2016-03-19 18:35:08  [ main:562 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:35:08  [ main:563 ] - [ DEBUG ]  Sending command {createUser : BsonString{value='root'}} to database local on connection [connectionId{localValue:2, serverValue:5}] to server localhost:27017
+2016-03-19 18:46:34  [ main:0 ] - [ INFO ]  Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=50}
+2016-03-19 18:46:34  [ main:196 ] - [ DEBUG ]  Updating cluster description to  {type=UNKNOWN, servers=[{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]
+2016-03-19 18:46:34  [ main:246 ] - [ INFO ]  No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-03-19 18:46:34  [ cluster-ClusterId{value='56ed2e0a92159b0b76ac1087', description='null'}-localhost:27017:281 ] - [ INFO ]  Opened connection [connectionId{localValue:1, serverValue:6}] to localhost:27017
+2016-03-19 18:46:34  [ cluster-ClusterId{value='56ed2e0a92159b0b76ac1087', description='null'}-localhost:27017:282 ] - [ DEBUG ]  Checking status of localhost:27017
+2016-03-19 18:46:34  [ cluster-ClusterId{value='56ed2e0a92159b0b76ac1087', description='null'}-localhost:27017:284 ] - [ INFO ]  Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 0]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=1164038}
+2016-03-19 18:46:34  [ cluster-ClusterId{value='56ed2e0a92159b0b76ac1087', description='null'}-localhost:27017:285 ] - [ DEBUG ]  Updating cluster description to  {type=STANDALONE, servers=[{address=localhost:27017, type=STANDALONE, roundTripTime=1.2 ms, state=CONNECTED}]
+2016-03-19 18:46:34  [ main:291 ] - [ INFO ]  Opened connection [connectionId{localValue:2, serverValue:7}] to localhost:27017
+2016-03-19 18:46:34  [ main:300 ] - [ DEBUG ]  Sending command {usersInfo : BsonString{value='root'}} to database mongodb on connection [connectionId{localValue:2, serverValue:7}] to server localhost:27017
+2016-03-19 18:46:34  [ main:318 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:46:34  [ main:325 ] - [ DEBUG ]  Sending command {updateUser : BsonString{value='root'}} to database mongodb on connection [connectionId{localValue:2, serverValue:7}] to server localhost:27017
+2016-03-19 18:46:34  [ main:359 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:46:34  [ main:360 ] - [ DEBUG ]  Sending command {usersInfo : BsonString{value='root'}} to database stock on connection [connectionId{localValue:2, serverValue:7}] to server localhost:27017
+2016-03-19 18:46:34  [ main:361 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:46:34  [ main:367 ] - [ DEBUG ]  Sending command {createUser : BsonString{value='root'}} to database stock on connection [connectionId{localValue:2, serverValue:7}] to server localhost:27017
+2016-03-19 18:46:34  [ main:389 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:54:51  [ main:0 ] - [ INFO ]  Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=50}
+2016-03-19 18:54:51  [ main:195 ] - [ DEBUG ]  Updating cluster description to  {type=UNKNOWN, servers=[{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]
+2016-03-19 18:54:51  [ main:233 ] - [ INFO ]  No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-03-19 18:54:51  [ cluster-ClusterId{value='56ed2ffb92159b0b79f1af9e', description='null'}-localhost:27017:276 ] - [ INFO ]  Opened connection [connectionId{localValue:1, serverValue:8}] to localhost:27017
+2016-03-19 18:54:51  [ cluster-ClusterId{value='56ed2ffb92159b0b79f1af9e', description='null'}-localhost:27017:277 ] - [ DEBUG ]  Checking status of localhost:27017
+2016-03-19 18:54:51  [ cluster-ClusterId{value='56ed2ffb92159b0b79f1af9e', description='null'}-localhost:27017:278 ] - [ INFO ]  Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 0]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=933799}
+2016-03-19 18:54:51  [ cluster-ClusterId{value='56ed2ffb92159b0b79f1af9e', description='null'}-localhost:27017:280 ] - [ DEBUG ]  Updating cluster description to  {type=STANDALONE, servers=[{address=localhost:27017, type=STANDALONE, roundTripTime=0.9 ms, state=CONNECTED}]
+2016-03-19 18:54:51  [ main:286 ] - [ INFO ]  Opened connection [connectionId{localValue:2, serverValue:9}] to localhost:27017
+2016-03-19 18:54:51  [ main:296 ] - [ DEBUG ]  Sending command {usersInfo : BsonString{value='root'}} to database mongodb on connection [connectionId{localValue:2, serverValue:9}] to server localhost:27017
+2016-03-19 18:54:51  [ main:302 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:54:51  [ main:310 ] - [ DEBUG ]  Sending command {updateUser : BsonString{value='root'}} to database mongodb on connection [connectionId{localValue:2, serverValue:9}] to server localhost:27017
+2016-03-19 18:54:51  [ main:334 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:54:51  [ main:335 ] - [ INFO ]  Cluster created with settings {hosts=[localhost:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=50}
+2016-03-19 18:54:51  [ main:337 ] - [ DEBUG ]  Updating cluster description to  {type=UNKNOWN, servers=[{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]
+2016-03-19 18:54:51  [ main:338 ] - [ INFO ]  No server chosen by ReadPreferenceServerSelector{readPreference=primary} from cluster description ClusterDescription{type=UNKNOWN, connectionMode=SINGLE, all=[ServerDescription{address=localhost:27017, type=UNKNOWN, state=CONNECTING}]}. Waiting for 30000 ms before timing out
+2016-03-19 18:54:51  [ cluster-ClusterId{value='56ed2ffb92159b0b79f1af9f', description='null'}-localhost:27017:339 ] - [ INFO ]  Opened connection [connectionId{localValue:3, serverValue:10}] to localhost:27017
+2016-03-19 18:54:51  [ cluster-ClusterId{value='56ed2ffb92159b0b79f1af9f', description='null'}-localhost:27017:341 ] - [ DEBUG ]  Checking status of localhost:27017
+2016-03-19 18:54:51  [ cluster-ClusterId{value='56ed2ffb92159b0b79f1af9f', description='null'}-localhost:27017:342 ] - [ INFO ]  Monitor thread successfully connected to server with description ServerDescription{address=localhost:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 2, 0]}, minWireVersion=0, maxWireVersion=4, maxDocumentSize=16777216, roundTripTimeNanos=652583}
+2016-03-19 18:54:51  [ cluster-ClusterId{value='56ed2ffb92159b0b79f1af9f', description='null'}-localhost:27017:343 ] - [ DEBUG ]  Updating cluster description to  {type=STANDALONE, servers=[{address=localhost:27017, type=STANDALONE, roundTripTime=0.7 ms, state=CONNECTED}]
+2016-03-19 18:54:51  [ main:346 ] - [ INFO ]  Opened connection [connectionId{localValue:4, serverValue:11}] to localhost:27017
+2016-03-19 18:54:51  [ main:346 ] - [ DEBUG ]  Sending command {usersInfo : BsonString{value='root'}} to database mongodb on connection [connectionId{localValue:4, serverValue:11}] to server localhost:27017
+2016-03-19 18:54:51  [ main:347 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:54:51  [ main:348 ] - [ DEBUG ]  Sending command {updateUser : BsonString{value='root'}} to database mongodb on connection [connectionId{localValue:4, serverValue:11}] to server localhost:27017
+2016-03-19 18:54:51  [ main:373 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:54:51  [ main:374 ] - [ DEBUG ]  Sending command {usersInfo : BsonString{value='root'}} to database stock on connection [connectionId{localValue:4, serverValue:11}] to server localhost:27017
+2016-03-19 18:54:51  [ main:376 ] - [ DEBUG ]  Command execution completed
+2016-03-19 18:54:51  [ main:377 ] - [ DEBUG ]  Sending command {updateUser : BsonString{value='root'}} to database stock on connection [connectionId{localValue:4, serverValue:11}] to server localhost:27017
+2016-03-19 18:54:52  [ main:401 ] - [ DEBUG ]  Command execution completed
